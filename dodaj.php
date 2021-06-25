@@ -14,15 +14,10 @@ $result = $dobazy->query($sql);
 $result2 = $dobazy->query($sql2);
 
 if($result2->num_rows>0){
-    while($row = $result2->fetch_assoc()){ echo"FILM: ".$row['tytul'].' '." zostal dodany do bazy".'<br>';
-    
+    while($row = $result2->fetch_assoc()){ echo"FILM: ".$row['tytul'].' '." zostal dodany do bazy".'<br>';    
 } 
 }
 else{
     echo "nie znaleziono nic ";
 }
-
-
-
-
 ?>
