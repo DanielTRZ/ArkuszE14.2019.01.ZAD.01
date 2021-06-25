@@ -25,27 +25,19 @@
     <div id="panelp2">
          <form action='dodaj.php' method="POST" name="filmoteka" id="filmoteka">
          <label>Tytuł</label><input type="text" name="Tytul"/>
-             <br>
-         
+             <br>  
          <label>Gatunek filmu:</label><input type="text"  name="Gatunek" >
          <br>
-       
          <label> Rok produkcji</label><input type="text"
          name="Rok"> 
          <br>
-        
          <label>Ocena</label><input type="text"  name="Ocena">
          <br>
-        
              <input type="reset" name="CZYŚĆ" value="CZYŚĆ">
              <input type="submit" name="DODAJ" value="DODAJ">
         </form>
-    
-        </div>
-    
-    
+    </div>
     <div id="panelp3"><img src="kadr.jpg" alt="zdjecie filmowe"></div>
-   
     <div id="stopka"><a>Autor strony : 76890987654</a></div>
     
 </body>
