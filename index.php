@@ -3,7 +3,7 @@
 <head>
 <title>Filmy</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="styl1.css">    
+<link rel="stylesheet" href="styl1.css">    
    </head>
 <body>
     
