@@ -4,7 +4,7 @@
 <title>Filmy</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="styl1.css">    
-   </head>
+</head>
 <body>
     
     <div id="panellewy">
