@@ -19,7 +19,7 @@
 <br>
 <a href="repertuar-kin.pl" target="_blank">Sprawdż repertuar kin</a>
 </div>
-    <div id="panelp1"><h1>FILMOTEKA</h1></div>
+<div id="panelp1"><h1>FILMOTEKA</h1></div>
     
     <div id="panelp2">
          <form action='dodaj.php' method="POST" name="filmoteka" id="filmoteka">
