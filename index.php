@@ -14,7 +14,7 @@
 <li>dramat</li>
 <li>horror</li>
 <li>komedia</li>
-        </ol>
+</ol>
         <a href="kadr.jpg" alt="Pobierz obraz">Pobierz obraz</a><br>
         <br>
         <a href="repertuar-kin.pl" target="_blank">Sprawdż repertuar kin</a>
