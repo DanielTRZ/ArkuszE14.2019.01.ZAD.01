@@ -6,8 +6,7 @@
 <link rel="stylesheet" href="styl1.css">    
 </head>
 <body>
-    
-    <div id="panellewy">
+<div id="panellewy">
     <h3>Dostępne gatunki filmu</h3>
         <ol>
         <li>Sci-Fi</li>
