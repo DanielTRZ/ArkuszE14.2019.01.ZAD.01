@@ -16,7 +16,7 @@
 <li>komedia</li>
 </ol>
 <a href="kadr.jpg" alt="Pobierz obraz">Pobierz obraz</a><br>
-        <br>
+<br>
         <a href="repertuar-kin.pl" target="_blank">Sprawdż repertuar kin</a>
 </div>
     <div id="panelp1"><h1>FILMOTEKA</h1></div>
