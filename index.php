@@ -8,7 +8,7 @@
 <body>
 <div id="panellewy">
 <h3>Dostępne gatunki filmu</h3>
-        <ol>
+<ol>
         <li>Sci-Fi</li>
         <li>animacja</li>
         <li>dramat</li>
