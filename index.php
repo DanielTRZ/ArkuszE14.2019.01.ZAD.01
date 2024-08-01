@@ -13,7 +13,7 @@
 <li>animacja</li>
 <li>dramat</li>
 <li>horror</li>
-        <li>komedia</li>
+<li>komedia</li>
         </ol>
         <a href="kadr.jpg" alt="Pobierz obraz">Pobierz obraz</a><br>
         <br>
