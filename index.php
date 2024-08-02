@@ -32,7 +32,7 @@
 <label>Ocena</label><input type="text"  name="Ocena">
 <br>
 <input type="reset" name="CZYŚĆ" value="CZYŚĆ">
-             <input type="submit" name="DODAJ" value="DODAJ">
+    <input type="submit" name="DODAJ" value="DODAJ">
         </form>
     </div>
     <div id="panelp3"><img src="kadr.jpg" alt="zdjecie filmowe"></div>
