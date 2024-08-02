@@ -29,7 +29,7 @@
 <br>
 <label> Rok produkcji</label><input type="text" name="Rok"> 
 <br>
-         <label>Ocena</label><input type="text"  name="Ocena">
+        <label>Ocena</label><input type="text"  name="Ocena">
          <br>
              <input type="reset" name="CZYŚĆ" value="CZYŚĆ">
              <input type="submit" name="DODAJ" value="DODAJ">
