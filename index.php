@@ -27,7 +27,7 @@
 <br>  
 <label>Gatunek filmu:</label><input type="text"  name="Gatunek" >
 <br>
-    <label> Rok produkcji</label><input type="text"
+<label> Rok produkcji</label><input type="text"
          name="Rok"> 
          <br>
          <label>Ocena</label><input type="text"  name="Ocena">
