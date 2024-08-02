@@ -26,7 +26,7 @@
 <label>Tytuł</label><input type="text" name="Tytul"/>
 <br>  
 <label>Gatunek filmu:</label><input type="text"  name="Gatunek" >
-         <br>
+        <br>
          <label> Rok produkcji</label><input type="text"
          name="Rok"> 
          <br>
