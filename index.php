@@ -24,7 +24,7 @@
 <div id="panelp2">
 <form action='dodaj.php' method="POST" name="filmoteka" id="filmoteka">
 <label>Tytuł</label><input type="text" name="Tytul"/>
-    <br>  
+<br>  
          <label>Gatunek filmu:</label><input type="text"  name="Gatunek" >
          <br>
          <label> Rok produkcji</label><input type="text"
