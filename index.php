@@ -21,7 +21,7 @@
 </div>
 <div id="panelp1"><h1>FILMOTEKA</h1></div>
     
-    <div id="panelp2">
+<div id="panelp2">
          <form action='dodaj.php' method="POST" name="filmoteka" id="filmoteka">
          <label>Tytuł</label><input type="text" name="Tytul"/>
              <br>  
