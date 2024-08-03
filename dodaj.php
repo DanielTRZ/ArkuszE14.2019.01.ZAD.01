@@ -18,6 +18,6 @@ if($result2->num_rows>0){
 } 
 }
 else{
-    echo "nie znaleziono nic ";
+echo "nie znaleziono nic ";
 }
 ?>
