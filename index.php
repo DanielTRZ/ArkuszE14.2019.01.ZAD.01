@@ -35,7 +35,7 @@
 <input type="submit" name="DODAJ" value="DODAJ">
 </form>
 </div>
-    <div id="panelp3"><img src="kadr.jpg" alt="zdjecie filmowe"></div>
+<div id="panelp3"><img src="kadr.jpg" alt="zdjecie filmowe"></div>
 <div id="stopka"><a>Autor strony : 76890987654</a></div>
     
 </body>
